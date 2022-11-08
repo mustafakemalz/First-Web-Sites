@@ -1,0 +1,12 @@
+body{
+	display: flexbox;
+	background-color: rgb(185, 185, 185);
+}
+h1 {
+	
+}
+div{   
+	padding: 10px;
+	display: flex;
+	justify-content: space-around;
+}

@@ -1,0 +1,15 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: black;
+    color: white;
+}
+div {
+    display: flex;
+    justify-content: space-around;
+    margin: 70px;
+    font-size: 70px;
+}
+.cizgi {
+    text-decoration: none;
+    color: red;
+}
